@@ -1,0 +1,67 @@
+html {
+    background-image: url("boardBackground.jpg");
+    
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.9);
+    margin: auto;
+    padding: 15px 0px;
+    width: 900px;
+}
+
+ div { 
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+h1 {
+    background-color: rgb(60, 60, 60);
+    color: white;
+    border-radius: 40px;
+    letter-spacing: 4px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Kavivanar', cursive;
+}
+
+h2, h3, h4 {
+    font-variant: small-caps;
+    font-size: 30px;
+}
+
+h2 {
+    color: orange;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    color: red;
+}
+   
+p {
+    text-align: left; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+
+.link {
+    text-align: center;
+    font-size: 12px;
+}
+
+hr {
+    height: 1.5px;
+    background-color: black;
+}

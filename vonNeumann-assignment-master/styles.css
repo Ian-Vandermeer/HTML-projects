@@ -1,0 +1,66 @@
+html {
+    background-image: url("blueprint23.jpg");
+}
+
+body {
+    margin: 10px auto;
+    width: 1100px;
+    height: 840px;
+    padding: 20px 20px 0px 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 25px;
+}
+
+
+div {
+    text-align: center;
+}
+
+h1 {
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 50px;
+     letter-spacing: 4px;
+     font-variant: small-caps;
+}
+
+strong {
+    font-variant: small-caps;
+}
+
+p {
+    font-family: Verdana, Tahoma, sans-serif;
+    letter-spacing: 1px;
+}
+
+hr {
+    align-content: center;
+    width: 85%;
+    height: 2px;
+    background-color:red;
+    color: red;
+    border: none;
+}
+
+em {
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.Central-Processing-Unit {
+    color: #FF0000;
+} 
+
+.Memory-Unit {
+    color: #FF6A00;
+}
+
+.Input-Output {
+    color: #007F0E;
+}
